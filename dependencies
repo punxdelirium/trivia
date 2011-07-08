@@ -1,3 +1,4 @@
 Following node libraries are required:
 
-- socket.io
+express
+socket.io
