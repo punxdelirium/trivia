@@ -3,6 +3,3 @@ Trivia
 
 This project's purpose is to get the hang of node.js.
 
-We will try to build the application with the express framework and with
-socket.io to enable websockets.
-
